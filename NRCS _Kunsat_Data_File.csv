@@ -1,0 +1,170 @@
+SITE_NAME,ID,REPLICATE,DEPTH_CM,DEPTH_RANGE,-15_KUNSAT,-10_KUNSAT,-5_KUNSAT
+Arden Woods,AW,a,1,1-5,0.37,0.42,0.65
+Arden Woods,AW,a,5,5-25,0.05,0.21,1.13
+Arden Woods,AW,a,25,25-39,0.16,0.08,0.05
+Arden Woods,AW,a,39,39-56,0.08,0.06,0.04
+Arden Woods,AW,a,56,56-106,0.03,0.04,0.06
+Arden Woods,AW,b,1,1-5,0.11,0.13,0.36
+Arden Woods,AW,b,5,5-25,0.03,0.03,0.04
+Arden Woods,AW,b,25,25-39,0.02,0.03,0.02
+Arden Woods,AW,b,39,39-56,0.06,0.04,0.03
+Arden Woods,AW,b,56,56-106,0.02,0.02,0.02
+Arden Woods,AW,c,1,1-5,0.03,0.02,0.03
+Arden Woods,AW,c,5,5-25,0.02,0.02,0.08
+Arden Woods,AW,c,25,25-39,0.16,0.08,0.05
+Arden Woods,AW,c,39,39-56,0.02,0.02,0.01
+Arden Woods,AW,c,56,56-106,0.02,0.02,0.02
+Inwood Hill,INW,a,1,1-5,0.23,0.57,0.62
+Inwood Hill,INW,a,5,5-35,0.42,0.35,0.42
+Inwood Hill,INW,a,35,35-59,0.37,0.2,0.85
+Inwood Hill,INW,a,59,59-85,0.2,0.23,0.37
+Inwood Hill,INW,a,85,85-105,0.04,0.13,0.22
+Inwood Hill,INW,a,105,105-120,0.19,0.04,0.13
+Inwood Hill,INW,b,1,1-5,0.14,0.34,0.25
+Inwood Hill,INW,b,5,5-35,2.43,2.39,1.88
+Inwood Hill,INW,b,35,35-59,0.38,0.41,0.97
+Inwood Hill,INW,b,59,59-85,0.4,0.1,0.54
+Inwood Hill,INW,b,85,85-105,0.15,0.1,0.17
+Inwood Hill,INW,b,105,105-120,0.26,0.13,0.28
+Inwood Hill,INW,c,1,1-5,0.02,0.02,0.02
+Inwood Hill,INW,c,5,5-35,0.11,0.11,0.21
+Inwood Hill,INW,c,35,35-59,0.38,0.27,0.59
+Inwood Hill,INW,c,59,59-85,NaN,NaN,NaN
+Inwood Hill,INW,c,85,85-105,0.06,0.14,0.97
+Inwood Hill,INW,c,105,105-120,0.11,0.1,0.07
+Blue Heron,BH,a,0,0-11,0.14,0.19,0.3
+Blue Heron,BH,a,11,11-26,0.03,0.31,0.74
+Blue Heron,BH,a,26,26-47,0.04,0.05,0.05
+Blue Heron,BH,a,47,47-65,0.02,0.04,0.17
+Blue Heron,BH,a,65,65-83,0.1,0.02,0.02
+Blue Heron,BH,b,0,0-11,0.13,0.13,0.22
+Blue Heron,BH,b,11,11-26,0.05,0.14,0.28
+Blue Heron,BH,b,26,26-47,0.02,0.02,0.02
+Blue Heron,BH,b,47,47-65,0.03,0.04,0.05
+Blue Heron,BH,b,65,65-83,0.02,0.05,0.04
+Blue Heron,BH,c,0,0-11,0.01,0.02,0.02
+Blue Heron,BH,c,11,11-26,0.04,0.06,0.24
+Blue Heron,BH,c,26,26-47,NaN,NaN,NaN
+Blue Heron,BH,c,47,47-65,0.02,0.02,0.01
+Blue Heron,BH,c,65,65-83,0.03,0.03,0.04
+FB Floyd Bennett,FB,a,0,0-14,1.85,3.18,1.12
+FB Floyd Bennett,FB,a,14,14-44,0.82,1.97,3.63
+FB Floyd Bennett,FB,a,44,44-57,0.94,1.12,2.09
+FB Floyd Bennett,FB,a,57,57-67,0.56,0.96,0.35
+FB Floyd Bennett,FB,a,67,67-88,0.14,0.54,0.37
+FB Floyd Bennett,FB,b,0,0-14,0.05,0.06,0.26
+FB Floyd Bennett,FB,b,14,14-44,0.47,0.38,0.18
+FB Floyd Bennett,FB,b,44,44-57,0.04,0.06,0.1
+FB Floyd Bennett,FB,b,57,57-67,0.49,0.79,1.2
+FB Floyd Bennett,FB,b,67,67-88,0.41,0.53,0.45
+FB Floyd Bennett,FB,c,0,0-14,0.59,0.29,0.55
+FB Floyd Bennett,FB,c,14,14-44,0.02,0.02,0.04
+FB Floyd Bennett,FB,c,44,44-57,0.06,0.13,0.31
+FB Floyd Bennett,FB,c,57,57-67,0.21,0.19,0.2
+FB Floyd Bennett,FB,c,67,67-88,0.2,0.21,0.35
+JR Floyd Bennett,JR,a,0,0-20,0.27,0.74,0.8
+JR Floyd Bennett,JR,a,20,20-43,0.34,0.14,0.8
+JR Floyd Bennett,JR,a,43,43-49,1.62,1.16,2.26
+JR Floyd Bennett,JR,a,49,49-80,2.15,2.86,2.71
+JR Floyd Bennett,JR,a,80,80-117,0.82,1.91,1.59
+JR Floyd Bennett,JR,b,0,0-20,0.03,0.03,0.03
+JR Floyd Bennett,JR,b,20,20-43,NaN,NaN,NaN
+JR Floyd Bennett,JR,b,43,43-49,0.09,0.05,0.06
+JR Floyd Bennett,JR,b,49,49-80,1.98,1.48,1.33
+JR Floyd Bennett,JR,b,80,80-117,0.76,1.19,2
+JR Floyd Bennett,JR,c,0,0-20,NaN,NaN,NaN
+JR Floyd Bennett,JR,c,20,20-43,NaN,NaN,NaN
+JR Floyd Bennett,JR,c,43,43-49,0.38,0.63,0.42
+JR Floyd Bennett,JR,c,49,49-80,0.03,0.03,0.04
+JR Floyd Bennett,JR,c,80,80-117,0.09,0.37,NaN
+CF Floyd Bennett,CF,a,0,0-13,0.18,0.51,0.62
+CF Floyd Bennett,CF,a,13,13-19,0.28,0.12,0.28
+CF Floyd Bennett,CF,a,19,19-34,0.18,0.64,1.12
+CF Floyd Bennett,CF,a,34,34-44,1.38,1.39,2.49
+CF Floyd Bennett,CF,a,44,44-86,1.64,1.62,0.2
+CF Floyd Bennett,CF,b,0,0-13,0.06,0.05,0.06
+CF Floyd Bennett,CF,b,13,13-19,0.03,0.02,0.04
+CF Floyd Bennett,CF,b,19,19-34,0.02,0.03,0.04
+CF Floyd Bennett,CF,b,34,34-44,0.43,0.52,0.38
+CF Floyd Bennett,CF,b,44,44-86,0.66,1.66,0.62
+CF Floyd Bennett,CF,c,0,0-13,NaN,NaN,NaN
+CF Floyd Bennett,CF,c,13,13-19,0.08,0.13,0.23
+CF Floyd Bennett,CF,c,19,19-34,NaN,NaN,NaN
+CF Floyd Bennett,CF,c,34,34-44,0.24,0.14,0.56
+CF Floyd Bennett,CF,c,44,44-86,1.08,1.88,0.97
+Greenwood Cemetery,GC,a,0,0-13,0.46,1.18,3.13
+Greenwood Cemetery,GC,a,13,13-28,0.17,0.21,0.59
+Greenwood Cemetery,GC,a,43,43-63,0.06,0.17,0.16
+Greenwood Cemetery,GC,a,63,63-77,0.52,0.48,0.57
+Greenwood Cemetery,GC,a,104,104-117,0.47,0.49,1.66
+Greenwood Cemetery,GC,b,0,0-13,0.46,1.72,1.55
+Greenwood Cemetery,GC,b,13,13-28,0.25,0.32,0.71
+Greenwood Cemetery,GC,b,43,43-63,0.12,0.08,0.04
+Greenwood Cemetery,GC,b,63,63-77,0.23,0.16,0.69
+Greenwood Cemetery,GC,b,104,104-117,0.44,0.8,1.05
+Greenwood Cemetery,GC,c,0,0-13,0.31,0.22,0.38
+Greenwood Cemetery,GC,c,13,13-28,0.08,0.15,0.27
+Greenwood Cemetery,GC,c,43,43-63,0.11,0.11,0.3
+Greenwood Cemetery,GC,c,63,63-77,0.02,0.02,0.03
+Greenwood Cemetery,GC,c,104,104-117,0.12,0.18,0.52
+Greenbelt Recreation Center,GB,a,0,0-25,0.5,0.53,1.27
+Greenbelt Recreation Center,GB,a,25,25-42,0.17,0.16,1.58
+Greenbelt Recreation Center,GB,a,42,42-71,0.08,0.14,2.42
+Greenbelt Recreation Center,GB,a,71,71-91,0.91,0.72,0.7
+Greenbelt Recreation Center,GB,a,91,91-130,0.47,0.69,1.58
+Greenbelt Recreation Center,GB,b,0,0-25,1.05,1.48,1.74
+Greenbelt Recreation Center,GB,b,25,25-42,0.07,0.03,0.07
+Greenbelt Recreation Center,GB,b,42,42-71,0.04,0.08,0.43
+Greenbelt Recreation Center,GB,b,71,71-91,0.18,0.15,0.55
+Greenbelt Recreation Center,GB,b,91,91-130,0.05,0.04,0.14
+Greenbelt Recreation Center,GB,c,0,0-25,0.28,0.45,1.35
+Greenbelt Recreation Center,GB,c,25,25-42,0.04,0.05,0.08
+Greenbelt Recreation Center,GB,c,42,42-71,0.03,0.03,0.76
+Greenbelt Recreation Center,GB,c,71,71-91,0.02,0.05,0.46
+Greenbelt Recreation Center,GB,c,91,91-130,1.5,0.57,1.38
+Van Cortlandt,VC,a,0,0-6,0.44,0.45,1.79
+Van Cortlandt,VC,a,6,6-16,0.21,0.13,0.2
+Van Cortlandt,VC,a,16,16-28,0.38,0.5,0.64
+Van Cortlandt,VC,a,28,28-54,0.79,0.77,1.92
+Van Cortlandt,VC,a,54,54-67,0.62,0.73,1.68
+Van Cortlandt,VC,a,67,67-102,0.37,0.61,0.91
+Van Cortlandt,VC,b,0,0-6,0.38,0.71,2.24
+Van Cortlandt,VC,b,6,6-16,1.45,1.42,2
+Van Cortlandt,VC,b,16,16-28,0.43,0.5,0.4
+Van Cortlandt,VC,b,28,28-54,0.64,1.31,1.94
+Van Cortlandt,VC,b,54,54-67,0.41,0.57,0.88
+Van Cortlandt,VC,b,67,67-102,0.75,0.32,0.92
+Van Cortlandt,VC,c,0,0-6,0.31,0.36,0.68
+Van Cortlandt,VC,c,6,6-16,0.25,0.8,1.24
+Van Cortlandt,VC,c,16,16-28,0.06,0.6,0.68
+Van Cortlandt,VC,c,28,28-54,1.2,1.58,2.57
+Van Cortlandt,VC,c,54,54-67,0.04,0.15,0.44
+Van Cortlandt,VC,c,67,67-102,0.05,0.06,0.08
+Soundview Park,SV,a,0,0-17,0.34,0.68,1.37
+Soundview Park,SV,a,17,17-50,0.13,0.43,0.95
+Soundview Park,SV,a,50,50-67,0.16,0.35,1.61
+Soundview Park,SV,a,67,67-94,0.09,0.08,0.64
+Soundview Park,SV,a,94,94-104,1,1.17,0.47
+Soundview Park,SV,b,0,0-17,0.06,0.1,0.22
+Soundview Park,SV,b,17,17-50,0.41,0.48,0.83
+Soundview Park,SV,b,50,50-67,0.07,0.08,0.09
+Soundview Park,SV,b,67,67-94,0.06,0.03,0.16
+Soundview Park,SV,b,94,94-104,0.02,0.03,0.02
+Soundview Park,SV,c,0,0-17,0.02,0.03,0.02
+Soundview Park,SV,c,17,17-50,0.33,0.63,0.55
+Soundview Park,SV,c,50,50-67,0.04,0.06,0.27
+Soundview Park,SV,c,67,67-94,0.2,0.52,0.44
+Soundview Park,SV,c,94,94-104,0.02,0.02,0.17
+Corporate Woods,CW,a,0,0-12,0.82,1.03,2.24
+Corporate Woods,CW,a,12,12-19,1.58,1.96,3.4
+Corporate Woods,CW,a,19,19-33,1.86,1.36,2.28
+Corporate Woods,CW,a,33,33-101,0.16,0.21,0.32
+Corporate Woods,CW,b,0,0-12,0.05,0.07,0.19
+Corporate Woods,CW,b,12,12-19,0.01,0.02,0.06
+Corporate Woods,CW,b,19,19-33,0.12,0.1,0.08
+Corporate Woods,CW,b,33,33-101,0.13,0.31,0.74
+Corporate Woods,CW,c,0,0-12,0.01,0.04,0.4
+Corporate Woods,CW,c,12,12-19,0.29,0.48,1.05
+Corporate Woods,CW,c,19,19-33,0.21,0.17,0.12
+Corporate Woods,CW,c,33,33-101,0.01,0.17,0.16
+Flushing Meadows,FM,a,0,0-13,0.31,1.35,2.26
